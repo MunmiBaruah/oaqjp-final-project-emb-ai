@@ -30,4 +30,3 @@ def emotion_detector(text_to_analyze):
             'sadness': None,
             'dominant_emotion': None
         }
-
